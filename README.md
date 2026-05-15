@@ -31,10 +31,12 @@ known_faces/
 press q to quit 
 
 ## notes
-recognition runs every 30 frames
-qwen greetings are cached per person
-known_faces/ is ignored except for .gitkeep
-structure:
+- recognition runs every 30 frames
+- qwen greetings are cached per person
+- known_faces/ is ignored except for .gitkeep
+
+## repo structure
+
 ```
 face-id/
   app.py
