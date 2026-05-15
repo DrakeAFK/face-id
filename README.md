@@ -4,7 +4,7 @@ simple webcam face identification
 
 uses deepface to match faces from `known_faces/` and ollama/qwen to generate a short greeting 
 
-## setup
+## setup & run
 
 **run**
 
